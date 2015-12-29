@@ -19,7 +19,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-HEADER_COVER = 'static/my_image.png'
+# HEADER_COVER = 'static/my_image.png'
 
 # # Blogroll
 # LINKS = (('Pelican', 'http://getpelican.com/'),
@@ -45,6 +45,9 @@ SOCIAL = (
 )
 DEFAULT_PAGINATION = 10
 
+PLUGINS = [
+    'pelican_gist',
+]
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
