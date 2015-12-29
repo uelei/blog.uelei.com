@@ -16,7 +16,7 @@ mini instalação do debian como base.
 
 primeiro instale o debian sem nenhum pacote de preferencia, eu usei a net install e quando perguntou para instalar os pacotes só selecionei o **ssh-server**
 
-![debian packages](/images/post/2015-06-07-player-netflix-usando-debian/debian install packages.png)
+![debian packages](/images/post/2015-06-07-player-netflix-usando-debian/debian_install_packages.png)
 
 
   Apos a instalacao devemos instalar os pacotes do xfce, mas so queremos os pacotes basicos, usamos o commando --no-install-recommends

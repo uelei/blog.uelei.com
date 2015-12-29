@@ -32,6 +32,8 @@ GITHUB_URL = "https://github.com/uelei"
 # DISQUS_SITENAME = "mathieuleplatre"
 # PIWIK_URL = "mathieu-leplatre.info/piwik"
 # PIWIK_SITE_ID = 1
+TWITTER_URL = 'http://twitter.com/uelei'
+FACEBOOK_URL = 'http://facebook.com/uelei'
 
 COLOR_SCHEME_CSS = 'monokai.css'
 
