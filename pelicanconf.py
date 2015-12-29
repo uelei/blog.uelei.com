@@ -19,20 +19,34 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+HEADER_COVER = 'static/my_image.png'
 
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+# # Blogroll
+# LINKS = (('Pelican', 'http://getpelican.com/'),
+#          ('You can modify those links in your config file', '#'),)
 
+DELETE_OUTPUT_DIRECTORY = True
+
+TWITTER_USERNAME = "uelei"
+GITHUB_URL = "https://github.com/uelei"
+# DISQUS_SITENAME = "mathieuleplatre"
+# PIWIK_URL = "mathieu-leplatre.info/piwik"
+# PIWIK_SITE_ID = 1
+
+COLOR_SCHEME_CSS = 'monokai.css'
+
+SOCIAL = (
+    # ("LinkedIn", "http://www.linkedin.com/in/leplatre"),
+    # ("Launchpad", "https://code.launchpad.net/~mathieu.leplatre"),
+    ("GitHub", "https://github.com/uelei"),
+    # ("Google+", "https://plus.google.com/u/0/106965745149150173373"),
+    ("Twitter", "http://twitter.com/uelei"),
+    # ("Identi.ca", "http://identi.ca/leplatrem"),
+)
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-STATIC_PATHS = ['images', 'extra/CNAME']
+STATIC_PATHS = ['static', 'images', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, }
