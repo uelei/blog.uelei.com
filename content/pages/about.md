@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+Header_Cover : /static/images/img_3619.jpg
 permalink: /about/
 ---
 
