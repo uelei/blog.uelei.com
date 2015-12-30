@@ -19,7 +19,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-HEADER_COVER = 'images/img_3661.jpg'
+HEADER_COVER = 'static/images/img_3661.jpg'
 
 # # Blogroll
 # LINKS = (('Pelican', 'http://getpelican.com/'),
@@ -54,8 +54,8 @@ PLUGINS = [
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-STATIC_PATHS = ['static', 'images', 'extra/CNAME', 'extra/favicon.ico']
+STATIC_PATHS = ['static', 'static/extra/CNAME', 'static/extra/favicon.ico']
 EXTRA_PATH_METADATA = {
-    'extra/CNAME': {'path': 'CNAME'},
-    'extra/favicon.ico': {'path': 'favicon.ico'},
+    'static/extra/CNAME': {'path': 'CNAME'},
+    'static/extra/favicon.ico': {'path': 'favicon.ico'},
 }

@@ -1,6 +1,9 @@
+-------------
 title: Photoshop icon plugin
 date: 2015-06-15
-categories: -plugin -ios -android
+categories: images
+tags: plugin,ios,android
+-------------
 
 I was developing for ios and i needed to generate a bunch of images, so i found on internet a script for Photoshop that make things easy for us, first the plugin wasn't set for updates sizes. i update the sizes and add the sizes for android as well the code is bellow
 
