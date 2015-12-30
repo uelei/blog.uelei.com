@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Tar help"
+date: "2015-04-02"
+permalink: /tar/
+categories: linux
+tags:
+- tar
+- linux
+- help
+---
+
+Para compactar arquivos no formato TAR.GZ usando use:
+
+* tar -zcvf arquivos.tar.gz arquivos/
+
+Para descompactar arquivos no formato TAR.GZ, no diretório corrente:
+
+* tar -zxvf arquivos.tar.gz
+
+
+[wiki](https://pt.wikipedia.org/wiki/TAR)
