@@ -4,7 +4,6 @@ title: Instalando Lazarus 0.9.30.rc2 no MacOSX Lion
 date: 2011-10-27
 categories: dev
 tags: mac,pascal,lazarus,ide
-status: publish
 type: post
 published: true
 ---

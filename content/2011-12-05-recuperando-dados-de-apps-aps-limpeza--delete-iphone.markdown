@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recuperando dados de Apps após limpeza / Delete Iphone"
-date: "2011-12-05"
+date: 2011-12-05
 categories: iphone
 tags:
 - recuperar

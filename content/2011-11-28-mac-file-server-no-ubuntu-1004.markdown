@@ -11,7 +11,7 @@ tags:
 - ubuntu
 ---
 
-![](/assets/images/post/2011-11-28-mac-file-server-no-ubuntu-1004/ubuntu_mac_feature_thumb.jpg)
+![fileserver](/static/images/post/2011-11-28-mac-file-server-no-ubuntu-1004/ubuntu_mac_feature_thumb.jpg)
 
 Transformar seu ubuntu/debian em um servidor de arquivos para Mac, assim vc pode facilmente fazer backups em rede (usando o time machine) ou simplimente compartilhar arquivos **mac-linux**
 **primeiro devemos instalar o netatalk**
@@ -38,7 +38,7 @@ agora vamos reiniciar o netatalk
 
 {% gist 0a64041d0bb0a3187900 %}
 
-![](/assets/images/post/2011-11-28-mac-file-server-no-ubuntu-1004/bonjour97.png)
+![bonjour](/static/images/post/2011-11-28-mac-file-server-no-ubuntu-1004/bonjour97.png)
 
 **Instalar o avahi**
 
