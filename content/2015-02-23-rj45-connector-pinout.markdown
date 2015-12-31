@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RJ-45 connector pinout"
-date: "2015-02-23"
+date: 2015-02-23
 categories: diy
 tags:
 - rj-45

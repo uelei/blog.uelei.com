@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dr Who Wallpaper"
-date: "2015-03-28"
+date: 2015-03-28
 categories: wallpaper
 tags:
 - wallpaper

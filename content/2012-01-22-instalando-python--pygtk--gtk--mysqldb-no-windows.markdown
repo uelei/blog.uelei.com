@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Instalando Python + pygtk + gtk + mysqldb no windows"
-date: "2012-01-22"
+date: 2012-01-22
 categories: windows
 tags:
 - gtk

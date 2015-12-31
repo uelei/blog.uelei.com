@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Controle remoto do windows home usando VNC"
-date: "2011-12-26"
+date: 2011-12-26
 categories: windows
 tags:
 - vnc

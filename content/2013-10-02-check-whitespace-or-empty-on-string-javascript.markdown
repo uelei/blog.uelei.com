@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Check whitespace or empty on string javascript"
-date: "2013-10-02"
+date: 2013-10-02
 categories: javascript
 tags:
 - javascript

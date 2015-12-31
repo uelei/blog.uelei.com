@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Best Windows programs "
-date: "2015-03-29"
+date: 2015-03-29
 permalink: /windows/
 categories: windows
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Criando pen drive bootavel com imagem ISO"
-date: "2012-01-15"
+date: 2012-01-15
 categories: hack
 tags:
 - iso

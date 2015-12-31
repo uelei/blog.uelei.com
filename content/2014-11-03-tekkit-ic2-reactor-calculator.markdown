@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Minecraft tekkit IC2 reactor calculator"
-date: "2014-11-03"
+date: 2014-11-03
 categories: games
 tags: minecraft tekkit ic2 reactor games
 ---

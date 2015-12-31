@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Keypress working anywhere in a page"
-date: "2013-10-03"
+date: 2013-10-03
 categories: javascript
 tags:
 - javascript

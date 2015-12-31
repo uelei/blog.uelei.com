@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Setting local timezone on Opencart"
-date: "2014-10-08"
+date: 2014-10-08
 categories: php
 tags:
 - php

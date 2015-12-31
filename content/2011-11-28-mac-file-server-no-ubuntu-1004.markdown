@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mac file server no ubuntu 10.04"
-date: "2011-11-28"
+date: 2011-11-28
 categories: linux mac
 tags:
 - linux

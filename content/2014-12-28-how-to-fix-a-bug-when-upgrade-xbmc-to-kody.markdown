@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to fix a bug when upgrade xbmc to kody"
-date: "2014-12-28"
+date: 2014-12-28
 tags: kody xbmc fix
 categories: hack
 ---

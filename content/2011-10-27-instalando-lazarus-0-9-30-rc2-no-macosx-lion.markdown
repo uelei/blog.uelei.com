@@ -2,13 +2,8 @@
 layout: post
 title: Instalando Lazarus 0.9.30.rc2 no MacOSX Lion
 date: 2011-10-27
-categories:
-- dev
-tags:
-- mac
-- pascal
-- lazarus
-- ide
+categories: dev
+tags: mac,pascal,lazarus,ide
 status: publish
 type: post
 published: true
@@ -16,7 +11,7 @@ published: true
 
 Escreva uma vez. Compile em qualquer lugar !
 
-![Lazarus](/assets/images/post/2011-10-27-instalando-lazarus-0-9-30-rc2-no-macosx-lion/lazarus.jpg)
+![Lazarus](/static/images/post/2011-10-27-instalando-lazarus-0-9-30-rc2-no-macosx-lion/lazarus.jpg)
 
 **Lazarus** é um ambiente de desenvolvimento integrado desenvolvido para o compilador [Free Pascal](http://pt.wikipedia.org/wiki/Free_Pascal).O software objetiva ser compatível com o Delphi e, ao mesmo tempo, suportar diversas arquiteturas e sistemas operacionais.Free Pascal é um compilador de [Object Pascal](http://pt.wikipedia.org/wiki/Object_Pascal) que roda em Linux, Windows, OS/2, Mac OS tradicional, Mac OS X, ARM, BSD, BeOS, DOS e mais. Ele foi desenhado para compilar código com a sintaxe do Delphi ou dos dialetos Pascal do Macintosh e gerar executáveis para diferentes plataformas a partir de um mesmo código-fonte. (fonte [wikipedia](http://pt.wikipedia.org/wiki/Lazarus)) Eu estava com saudade do Delphi ai resolvi esperimentar gostei bastante !
 
@@ -35,4 +30,4 @@ Depois instale o compilador fpc(dentro do dmg instale primeiro o **fpc-xcode-2.4
 
 Pronto Lazarus instalado e funcionando !! Pode Começar a brincar !!
 
-**PS.** instale tb o ZEOSLIB (conector com banco de dados ) neste link um [tutorial](http://professorcarlos.blogspot.com/2010/03/lazarus-conectando-postgresql-com.html) muito bom !!  
+**PS.** instale tb o ZEOSLIB (conector com banco de dados ) neste link um [tutorial](http://professorcarlos.blogspot.com/2010/03/lazarus-conectando-postgresql-com.html) muito bom !!

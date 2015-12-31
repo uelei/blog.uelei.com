@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hide virtualbox instance on windows startup"
-date: "2015-03-30"
+date: 2015-03-30
 categories: windows
 tags:
 - virtualbox

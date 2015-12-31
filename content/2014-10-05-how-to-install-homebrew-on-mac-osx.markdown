@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to install homebrew on Mac OSX"
-date: "2014-10-05"
+date: 2014-10-05
 categories: Mac
 tags:
 - mac

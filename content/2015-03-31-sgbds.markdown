@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SGBDs e os grupos de usuarios"
-date: "2015-03-31"
+date: 2015-03-31
 categories: database
 tags:
 - banco de dados

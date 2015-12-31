@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Keys Home End PgDown and PgUp on Mac ! "
-date: "2013-10-05"
+date: 2013-10-05
 categories: mac
 tags:
 - hack

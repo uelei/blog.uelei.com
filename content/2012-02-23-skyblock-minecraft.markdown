@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Skyblock minecraft"
-date: "2012-02-23"
+date: 2012-02-23
 categories: games
 tags: minecraft
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lista de tudo gratis na app store"
-date: "2013-11-07"
+date: 2013-11-07
 categories: apple
 permalink: /free/
 tags:

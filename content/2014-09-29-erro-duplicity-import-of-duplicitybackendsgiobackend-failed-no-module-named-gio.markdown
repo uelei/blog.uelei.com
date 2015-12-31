@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Erro duplicity import of duplicity.backends.giobackend failed: No module named gio"
-date: "2014-09-29"
+date: 2014-09-29
 categories: linux
 tags:
 - backup

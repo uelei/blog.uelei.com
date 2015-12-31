@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Evitar que o mac entre em sleep ! "
-date: "2014-09-26"
+date: 2014-09-26
 categories: mac
 tags:
 - nosleep

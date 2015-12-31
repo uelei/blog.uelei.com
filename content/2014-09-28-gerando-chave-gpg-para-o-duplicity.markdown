@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gerando chave gpg para o duplicity"
-date: "2014-09-28"
+date: 2014-09-28
 categories: linux
 tags:
 - backup

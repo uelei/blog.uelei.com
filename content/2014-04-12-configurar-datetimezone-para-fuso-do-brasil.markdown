@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Configurar date.timezone para fuso do brasil"
-date: "2014-04-12"
+date: 2014-04-12
 categories: php
 tags:
 - php

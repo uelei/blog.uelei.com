@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Easy way to setup a beautiful spinner only with css "
-date: "2015-03-25"
+date: 2015-03-25
 categories: webdev
 tags: web development css load spinner "no javascript"
 ---

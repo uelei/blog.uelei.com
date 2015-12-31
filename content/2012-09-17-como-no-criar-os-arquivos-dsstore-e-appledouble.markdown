@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Como não criar os arquivos .DS_Store e .AppleDouble"
-date: "2012-09-17"
+date: 2012-09-17
 categories: mac
 tags:
 - mac

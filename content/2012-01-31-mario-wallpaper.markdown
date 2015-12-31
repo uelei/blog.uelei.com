@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mario Wallpaper"
-date: "2012-01-31"
+date: 2012-01-31
 categories: wallpaper
 tags:
 - wallpaper

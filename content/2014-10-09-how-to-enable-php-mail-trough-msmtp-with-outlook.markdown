@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to enable php mail() trough msmtp with outlook"
-date: "2014-10-09"
+date: 2014-10-09
 categories: php
 tags:
 - outlook

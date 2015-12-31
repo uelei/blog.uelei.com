@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Download everything from a link"
-date: "2013-10-10"
+date: 2013-10-10
 categories: web
 tags:
 - download

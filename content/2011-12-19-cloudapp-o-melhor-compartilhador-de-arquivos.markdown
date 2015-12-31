@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cloudapp o melhor compartilhador de arquivos"
-date: "2011-12-19"
+date: 2011-12-19
 categories: cloud
 tags:
 - cloud

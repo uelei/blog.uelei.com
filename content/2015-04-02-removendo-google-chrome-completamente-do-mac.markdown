@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Removendo google chrome completamente do mac"
-date: "2015-04-02"
+date: 2015-04-02
 categories: mac
 tags:
 - google chrome

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Java JDBC driver no Mac OS X"
-date: "2014-07-09"
+date: 2014-07-09
 categories: java
 tags:
 - mac

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Minecraft data values server"
-date: "2012-12-20"
+date: 2012-12-20
 categories: minecraft
 tags:
 - minecraft

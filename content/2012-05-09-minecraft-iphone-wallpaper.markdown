@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Minecraft iphone wallpaper"
-date: "2012-05-09"
+date: 2012-05-09
 categories: wallpaper
 tags:
 - wallpaper

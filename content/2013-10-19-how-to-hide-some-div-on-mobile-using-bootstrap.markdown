@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to hide some div on mobile using bootstrap"
-date: "2013-10-19"
+date: 2013-10-19
 categories: webdev
 tags:
 - bootstrap

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Configurando a saida de audio no linux com alsamixer"
-date: "2012-04-10"
+date: 2012-04-10
 categories: linux
 tags:
 - linux

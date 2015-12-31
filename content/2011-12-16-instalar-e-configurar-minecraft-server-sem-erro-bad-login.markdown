@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Instalar e configurar minecraft server sem erro bad login"
-date: "2011-12-16"
+date: 2011-12-16
 categories: games
 tags:
 - minecraft

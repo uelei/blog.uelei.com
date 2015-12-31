@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Instalar Transmission para rodar em background"
-date: "2011-11-23"
+date: 2011-11-23
 categories: linux
 tags:
 - linux

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Swap file no debian/ubuntu"
-date: "2014-10-01"
+date: 2014-10-01
 categories: linux
 tags:
 - linux

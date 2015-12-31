@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Backup incremental com duplicity"
-date: "2014-09-27"
+date: 2014-09-27
 categories: linux
 tags:
 - backup
