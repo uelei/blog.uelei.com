@@ -1,0 +1,65 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+
+sass:
+    style: :compressed
+
+# Site settings
+title: "blog uelei.com"
+description: My life my universe  and things that came in my mind..
+
+email: blog@uelei.com
+#blog logo
+logo: "/assets/images/uelei.jpg"
+# blog cover
+cover: "/assets/images/img_3661.jpg"
+
+name: 'Wesley Werneck'
+author: 'Wesley Werneck'
+author_image: "/assets/images/uelei.jpg"
+
+permalink: "/:title"
+# paginate_path: "/page-:num"
+paginate: 7
+timezone: America/Sao_Paulo
+
+url: "http://blog.uelei.com" # the base hostname & protocol for your site
+baseurl: ""
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/uelei
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon:	facebook
+    url:	https://facebook.com/uelei
+    desc: Connect with me on facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/uelei
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	flickr
+    url:	https://www.flickr.com/photos/uelei/
+    desc:	See some Pictures that i took
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:

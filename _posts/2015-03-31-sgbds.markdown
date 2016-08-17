@@ -1,0 +1,55 @@
+---
+layout: post
+title: "SGBDs e os grupos de usuarios"
+date: "2015-03-31"
+categories: database
+tags:
+- banco de dados
+- sgbd
+- teorico
+---
+
+Os principais beneficios do uso dos Sistemas gerenciadores de banco de dados(**SGBD**) estão
+
++ independencia de dados
++ controle de redundancia
++ compartilhamendo de dados
++ restricoes de acesso
++ restricoes de integridade(datatype)
++ mecanismos de backup e recuperação
++ multiplas interfaces
+
+
+Os principais grupos de usuarios dos bancos de dados temos
+
+**Adminstradores de dados AD**
+
+- indentificar os dados e estruturas
+- criam dicionarios de dados
+
+**Adminstradores de bando de dados ABD**
+
+- monitoram
+- responsaveis pelos esquemas internos/tabelas
+- autorizam o acesso
+- segurança e backup
+
+**Analista de sistemas**
+
+- determina os requisitos dos usuarios
+- desenvolvem os requisitos
+
+**Programadores de aplicação**
+
+- implementam programas
+- testam
+- corrigem
+- documentam
+
+**Usuarios Finais**
+
+- utilizam sistemas gerados pelo analista
+
+**pessoal do suporte**
+
+- preocupam-se com o hardware e afins
