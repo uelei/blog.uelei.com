@@ -1,4 +1,0 @@
-pelican
-ghp-import
-markdown
-pelican-gist
