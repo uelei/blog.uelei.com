@@ -63,3 +63,6 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
